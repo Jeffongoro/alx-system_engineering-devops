@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp jeff hello 
+chgrp my_dir hello
